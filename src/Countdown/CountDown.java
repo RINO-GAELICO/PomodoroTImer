@@ -3,6 +3,7 @@
  * Inspired by Pomodoro technique.
  * Three different timers in three different tabs for 
  * Long, Medium and Short sessions of study.
+ *
  */
 
 package Countdown;
